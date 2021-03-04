@@ -1,0 +1,144 @@
+  body {
+    background-color: #F0E8D1;
+    margin: 0 auto;
+    line-height: 1.5; 
+  	font-size: 100%;
+  	font-family: 'Work Sans', sans-serif;
+
+  }
+
+  footer {
+    font-style: italic;
+    color: #777;
+  }
+
+  /*********************** Your code goes here ***********************/
+
+h1 {
+  font-size: 8rem;
+  text-align: center;
+  font-family: 'Reggae One', cursive;
+  padding-top: 120px;
+  color: white;
+}
+
+
+h2, h3, h4, h5, h6 {
+  font-size: 2rem;
+  margin-bottom: 0.8rem;
+  margin-top: 0.5rem;
+  font-family: 'Reggae One', cursive;
+  color: #113245;
+
+}
+
+p {
+	font-family: 'Oxygen', sans-serif;
+}
+
+.parallax-img-1 {
+	background-image: url(../img/eragon-background.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 31.25rem;
+	background-attachment: fixed;
+	padding: 1rem;
+}
+
+h2, h3, p {
+
+	padding: 1rem 10rem;
+}
+
+.parallax-img-2 {
+	background-image: url(../img/eragon-2.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 18rem;
+	background-attachment: fixed;
+}
+
+.parallax-img-2 h2 {
+	margin-top: 1rem;
+	font-size: 5rem;
+	color:white;
+}
+
+.flex-box {
+	display: flex;
+
+}
+
+.eragon {
+	background-image: url(../img/eragon-bromsson.jpg);
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	width: 100rem;
+	height: 10rem;
+	background-attachment: fixed;
+}
+
+.eldest {
+	background-image: url(../img/eldest-cover.png);
+	background-size: cover;
+	background-position: right ;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 10rem;
+	background-attachment: fixed;
+}
+
+.brisinger {
+	background-image: url(../img/brisinger-cover.jpg);
+	background-size: cover;
+	background-position: right ;
+	background-repeat: no-repeat;
+	width: 100rem;
+	height: 10rem;
+	background-attachment: fixed;
+}
+
+.inheritance {
+	background-image: url(../img/inheritance-cover.jpg);
+	background-size: cover;
+	background-position: right ;
+	background-repeat: no-repeat;
+	width: 100rem;
+	height: 10rem;
+	background-attachment: fixed;
+}
+
+
+h2 {
+	font-size: 3rem;
+}
+
+p {
+	font-size: 1.1rem;
+}
+
+.parallax-img-3 {
+	background-image: url(../img/eragon-wide.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 18rem;
+	background-attachment: fixed;
+}
+
+
+.parallax-img-4 {
+	background-image: url(../img/eragon-game.jpg);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 18rem;
+	background-attachment: fixed;
+}
